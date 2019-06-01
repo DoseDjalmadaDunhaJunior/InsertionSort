@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/InsertionSort/InsertionSort.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/InsertionSort/main.cpp
+InsertionSort.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/InsertionSort/InsertionSort.hpp
+
